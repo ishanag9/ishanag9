@@ -7,6 +7,10 @@
   <img align="left" alt="Ishan Agrawal | Twitter" width="24px" src="https://raw.githubusercontent.com/ishanag9/ishanag9/master/assets/twitter.png" />
 </a>
 
+<br />
+<br />
+
+An active learner aspiring development and growth to succeed in a dynamic environment while experiencing advancement opportunities. 
 
 <!--
 **ishanag9/ishanag9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
