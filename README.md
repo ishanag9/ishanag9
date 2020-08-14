@@ -10,7 +10,7 @@
 <br />
 <br />
 
-I'm an active learner aspiring development and growth to succeed in a dynamic environment while experiencing advancement opportunities. I hope you are too😉
+I'm an active learner aspiring to develop and grow to succeed in a dynamic environment while experiencing advancement opportunities. I hope you are too😉
 
 <!--
 **ishanag9/ishanag9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
