@@ -1,9 +1,9 @@
 ### Hi there, I'm Ishan 👋
 
 <a href="https://www.linkedin.com/in/ishan-agrawal/">
-  <img align="left" alt="Ishan Agrawal | Twitter" width="24px" src="https://raw.githubusercontent.com/ishanag9/ishanag9/master/assets/linkedin.png" />
+  <img align="left" alt="Ishan Agrawal | LinkedIn" width="24px" src="https://raw.githubusercontent.com/ishanag9/ishanag9/master/assets/linkedin.png" />
 </a>
-<a href="https://twitter.com/i__ishan">
+<a href="https://twitter.com/highonbytes">
   <img align="left" alt="Ishan Agrawal | Twitter" width="27px" src="https://raw.githubusercontent.com/ishanag9/ishanag9/master/assets/twitter.png" />
 </a>
 
