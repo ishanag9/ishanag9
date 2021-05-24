@@ -1,4 +1,4 @@
-### Hi there, I'm Ishan 👋<img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif" width="40"><br>
+### Hi there, I'm Ishan <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif" width="35"><br>
 
 <a href="https://www.linkedin.com/in/ishan-agrawal/">
   <img align="left" alt="Ishan Agrawal | LinkedIn" width="24px" src="https://raw.githubusercontent.com/ishanag9/ishanag9/master/assets/linkedin.png" />
